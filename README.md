@@ -1,6 +1,10 @@
-# 在线开发资源速查手册
+# 资源备忘手册
 
 [TOC]
+
+### 书籍和文章类
+* [Awesome programming books](https://github.com/jobbole/awesome-programming-books)
+* [Awesome wechat posts](https://github.com/jobbole/awesome-wechat-dev-posts-2015)
 
 ### 系统维护类
 * [UNIX 常用命令速查](http://cb.vu/unixtoolbox_zh_CN.xhtml)
@@ -21,6 +25,7 @@
 * [Redis 资料汇总](http://blog.nosqlfan.com/html/3537.html)
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 * [MongoDB资料汇总](http://blog.nosqlfan.com/html/3548.html)
+* [Awesome Mysql 中文版](https://github.com/jobbole/awesome-mysql-cn)
 
 
 ### 正则表达式
@@ -29,14 +34,15 @@
 ### 机器学习
 * [Awesome machine learn](https://github.com/jobbole/awesome-machine-learning-cn)
 
+### 设计类
+* [Awesome design](https://github.com/jobbole/awesome-design-cn)
+
 ### C
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
 * [C/C++ 学习教程](http://doc.lellansin.com/)
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 * [awesome C](https://github.com/jobbole/awesome-c-cn)
-
-
 
 ### C++
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
@@ -65,17 +71,24 @@
 * [Go 指南](http://go-tour-zh.appsp0t.com/) (《A Tour of Go》中文版)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [学习 Go 语言](https://github.com/mikespook/Learning-Go-zh-cn)
+* [Awesome　Go](https://github.com/jobbole/awesome-go-cn)
 
 
 ### Haskell
 * [Haskell 趣学指南](http://learnyouahaskell-zh-tw.csie.org/)
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
+### Web
+* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http)
+* [前端技能树](https://leohxj.gitbooks.io/front-end-database/content/html-and-css-basic/index.html)
+* [Awesome web books](https://github.com/jobbole/awesome-web-dev-books)
+*[Web skil set](https://github.com/jobbole/web-skill-set)
 
 ### HTML / CSS
 * [HTML5 教程](http://www.w3school.com.cn/html5/)
 * [学习 CSS 布局](http://zh.learnlayout.com/)
 * [CSS参考手册](http://css.doyoe.com/)
+* [Awesome CSS](https://github.com/jobbole/awesome-css-cn)
 
 
 ### Javascript
@@ -86,6 +99,7 @@
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [The NodeJS 中文](https://www.gitbook.io/book/0532/nodejs)
 * [Awesome javascript 中文版](https://github.com/jobbole/awesome-javascript-cn)
+* [Jquery Tips](https://github.com/jobbole/jquery-tips-everyone-should-know)
 
 
 ### LISP
@@ -165,11 +179,6 @@
 ### Visual Prolog
 * [Visual Prolog 7初学指南](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog_in_Chinese)
 * [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
-
-
-### Web
-* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http)
-* [前端技能树](https://leohxj.gitbooks.io/front-end-database/content/html-and-css-basic/index.html)
 
 ### Android
 *[Awesome Android](https://github.com/jobbole/awesome-android-cn)
