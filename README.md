@@ -5,6 +5,10 @@
 ### 书籍和文章类
 * [Awesome programming books](https://github.com/jobbole/awesome-programming-books)
 * [Awesome wechat posts](https://github.com/jobbole/awesome-wechat-dev-posts-2015)
+* [vim手册查询](http://vim.rtorr.com/lang/zh_cn/)
+* [知道创宇技能表V3.0](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)
+* [文档生成](http://www.mkdocs.org/)
+* [设计导航](http://hao.shejidaren.com/)
 
 ### 系统维护类
 * [UNIX 常用命令速查](http://cb.vu/unixtoolbox_zh_CN.xhtml)
